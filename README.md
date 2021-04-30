@@ -51,7 +51,11 @@ Contrairement au mods, aucune modification n'a besoin d'être apporté coté cli
 
 ### ¤ WordPress
 
+Il est possible de configurer un site web afin de promouvoir le serveur.
 
+Le CMS WordPress permettra de créer le site de A à Z de manière assez simple
+
+<br/>
 
 ### ¤ Base de Données MySQL
 
