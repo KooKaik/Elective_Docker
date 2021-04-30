@@ -27,6 +27,8 @@ Pour installer un mod dans notre serveur, il faut:
 **ATTENTION:** Pour qu'un mod fonctionne correctement, il doit être installé coté serveur mais aussi coté client !
 Pour cela, il faut de rendre dans %appdata%/.minecraft/mods et glisser le mod (.jar) à l'intérieur du dossier.
 
+*Par défaut, le mod Twilight Forest*
+
 <br/>
 
 ### ¤ Bukkit (Plugins)
@@ -38,6 +40,8 @@ Pour installer un plugin dans notre serveur, il faut:
   - Redemarrer le serveur s'il était deja actif
 
 Contrairement au mods, aucune modification n'a besoin d'être apporté coté client pour que cela fonctionne
+
+*Par défaut, le plugin WorldEdit est déjà installé*
 
 <br/>
 
@@ -60,7 +64,7 @@ Le CMS WordPress permettra de créer le site de A à Z de manière assez simple.
 ### ¤ Base de Données MySQL
 
 Un site web nécessite une base de données fonctionnelle.
-Pour cela nous avons choisi de mettre en place une base de données MySQL qui est déjà préconfiguré pour fonctionner avec WordPress dés le 1er lancement
 
+Pour cela nous avons choisi de mettre en place une base de données MySQL qui est déjà préconfiguré pour fonctionner avec WordPress dés le 1er lancement
 
 <br/>
