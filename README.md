@@ -53,10 +53,14 @@ Contrairement au mods, aucune modification n'a besoin d'être apporté coté cli
 
 Il est possible de configurer un site web afin de promouvoir le serveur.
 
-Le CMS WordPress permettra de créer le site de A à Z de manière assez simple
+Le CMS WordPress permettra de créer le site de A à Z de manière assez simple.
 
 <br/>
 
 ### ¤ Base de Données MySQL
 
+Un site web nécessite une base de données fonctionnelle.
+Pour cela nous avons choisi de mettre en place une base de données MySQL qui est déjà préconfiguré pour fonctionner avec WordPress dés le 1er lancement
 
+
+<br/>
