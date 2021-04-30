@@ -47,11 +47,17 @@ Contrairement au mods, aucune modification n'a besoin d'être apporté coté cli
 
 ## Accès via VPN
 
+Le serveur n'étant pas hébergé en ligne, nous avons testé plusieurs VPN
+- RAdmin
+- OpenVPN
+- Hamachi
 
+**ATTENTION:** il est nécessaire d'installer le VPN coté client et serveur pour pouvoir se connecter au serveur.
+
+
+<br/>
 
 ## Site Web WordPress
-
-
 
 ### ¤ WordPress
 
