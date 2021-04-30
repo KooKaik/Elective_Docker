@@ -47,12 +47,19 @@ Contrairement au mods, aucune modification n'a besoin d'être apporté coté cli
 
 ## Accès via VPN
 
-Le serveur n'étant pas hébergé en ligne, nous avons testé plusieurs VPN
-- RAdmin
-- OpenVPN
+Le serveur n'étant pas hébergé en ligne, devait trouver un moyen pour simuler un réseau local.
+Pour cela de nombreuses solutions de VPN all in one existent.
+Elles nous permettent de créer un réseau et à nos amis, de les rejoindre, le tout en nous fournissant une ip public afin que nos amis puissent rejoindre le serveur.
+
+Exemple de VPN all in one :
+- RadminVPN
 - Hamachi
 
-**ATTENTION:** Il est nécessaire d'installer le VPN coté client et serveur pour pouvoir se connecter au serveur.
+Nous avons faut de nombreux tests sur le VPN OpenVPN afin d'être autonome sur notre VPN et ainsi créé notre propre certificat d'authentification pour rendre le réseau plus sécurisé.
+Malheureusement, après de nombreuses tentatives sur plusieurs plateformes différentes (Docker, Windows Serveur, Linux) nous n'avons pu aboutir à des résultats concluant.
+
+**ATTENTION:** Il est nécessaire d'installer le VPN coté client ET serveur pour pouvoir se connecter au serveur.
+
 
 
 <br/>
@@ -61,15 +68,19 @@ Le serveur n'étant pas hébergé en ligne, nous avons testé plusieurs VPN
 
 ### ¤ WordPress
 
-Il est possible de configurer un site web afin de promouvoir le serveur.
+Il est possible de configurer un site web afin de promouvoir le serveur pour qu'il soit accessible depuis le WAN.
+Le CMS WordPress permet de créer un site web de A à Z de en quelques clics grâce aux nombreuses templates pré-configurées qui sont disponibles.
 
-Le CMS WordPress permettra de créer le site de A à Z de manière assez simple.
+Sur ces templates il nous suffit juste de modifier les éléments désirés.
+
+
+Nous avons mis au point un site permettant aux joueurs du serveur d'être tenus au courant des nouveautés sur le serveur, mais aussi de passer des achat sur la boutique.
 
 <br/>
 
 ### ¤ Base de Données MySQL
 
-Un site web nécessite une base de données fonctionnelle.
+Le site web nécessite une base de données fonctionnelle.
 
 Pour cela nous avons choisi de mettre en place une base de données MySQL qui est déjà préconfiguré pour fonctionner avec WordPress dés le 1er lancement
 
