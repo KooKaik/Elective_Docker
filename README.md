@@ -9,7 +9,7 @@ Pour démarrer notre serveur minecraft, il faut:
   - S'assurer que docker et docker-compose soient bien installés
   - Lancer une fenêtre PowerShell
   - Se rendre à la racine du projet
-  - Lancer la commande **docker-compose up -d**
+  - Lancer la commande **docker-compose up**
 
 <br/>
 
