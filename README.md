@@ -20,8 +20,7 @@ Pour installer un mod dans notre serveur, il faut:
 ATTENTION: Pour qu'un mod fonctionne correctement, il doit être installé coté serveur mais aussi coté client !
 Pour cela, il faut de rendre dans %appdata%/.minecraft/mods et glisser le mod (.jar) à l'intérieur du dossier.
 
-<br/>;
-<br/>;
+<br/>
 
 ### ¤ Bukkit (Plugins)
 
@@ -31,9 +30,9 @@ Pour installer un plugin dans notre serveur, il faut:
   - Glisser le plugin (.jar) à l'intérieur
   - Redemarrer le serveur s'il était deja actif
 
+Contrairement au mod, aucune modification n'a besoin d'être apporté coté client pour que cela fonctionne
 
-<br/>;
-<br/>;
+<br/>
 
 ## Accès via VPN
 
