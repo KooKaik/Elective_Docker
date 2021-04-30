@@ -4,7 +4,14 @@
 
 ### ¤ Serveur
 
+Le serveur minecraft fonctionne en version 1.16.5 avec Forge.
+Pour démarrer notre serveur minecraft, il faut:
+  - S'assurer que docker et docker-compose soient bien installés
+  - Lancer une fenêtre PowerShell
+  - Se rendre à la racine du projet
+  - Lancer la commande **docker-compose up -d**
 
+<br/>
 
 ### ¤ Forge (Mods)
 
@@ -17,7 +24,7 @@ Pour installer un mod dans notre serveur, il faut:
   - Glisser le mod (.jar) à l'intérieur
   - Redemarrer le serveur s'il était deja actif
 
-ATTENTION: Pour qu'un mod fonctionne correctement, il doit être installé coté serveur mais aussi coté client !
+**ATTENTION:** Pour qu'un mod fonctionne correctement, il doit être installé coté serveur mais aussi coté client !
 Pour cela, il faut de rendre dans %appdata%/.minecraft/mods et glisser le mod (.jar) à l'intérieur du dossier.
 
 <br/>
@@ -30,7 +37,7 @@ Pour installer un plugin dans notre serveur, il faut:
   - Glisser le plugin (.jar) à l'intérieur
   - Redemarrer le serveur s'il était deja actif
 
-Contrairement au mod, aucune modification n'a besoin d'être apporté coté client pour que cela fonctionne
+Contrairement au mods, aucune modification n'a besoin d'être apporté coté client pour que cela fonctionne
 
 <br/>
 
