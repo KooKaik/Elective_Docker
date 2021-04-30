@@ -27,7 +27,7 @@ Pour installer un mod dans notre serveur, il faut:
 **ATTENTION:** Pour qu'un mod fonctionne correctement, il doit être installé coté serveur mais aussi coté client !
 Pour cela, il faut de rendre dans %appdata%/.minecraft/mods et glisser le mod (.jar) à l'intérieur du dossier.
 
-*Par défaut, le mod Twilight Forest*
+*Par défaut, le mod Twilight Forest est installé*
 
 <br/>
 
