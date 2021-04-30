@@ -52,7 +52,7 @@ Le serveur n'étant pas hébergé en ligne, nous avons testé plusieurs VPN
 - OpenVPN
 - Hamachi
 
-**ATTENTION:** il est nécessaire d'installer le VPN coté client et serveur pour pouvoir se connecter au serveur.
+**ATTENTION:** Il est nécessaire d'installer le VPN coté client et serveur pour pouvoir se connecter au serveur.
 
 
 <br/>
